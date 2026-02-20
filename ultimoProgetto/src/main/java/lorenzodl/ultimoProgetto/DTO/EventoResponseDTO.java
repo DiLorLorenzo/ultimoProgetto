@@ -2,6 +2,7 @@ package lorenzodl.ultimoProgetto.DTO;
 
 import java.time.LocalDateTime;
 
+
 public record EventoResponseDTO(
         Long id,
         String titolo,
